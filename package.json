@@ -1,22 +1,22 @@
 {
-  "name": "pace-theme",
-  "displayName": "Pace Theme",
-  "description": "An elegant VS Code theme optimized for developers with a high pace",
-  "icon": "icon.png",
-  "publisher": "fabian-hiller",
-  "author": "Fabian Hiller",
-  "homepage": "https://github.com/fabian-hiller/vscode-pace-theme",
+  "name": "evex-theme",
+  "displayName": "Evex Theme",
+  "description": "Ultra cool vs code theme by Evex Developers",
+  "icon": "logo.png",
+  "publisher": "evex-dev",
+  "author": "EdamAmex",
+  "homepage": "https://github.com/evex-dev/theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabian-hiller/vscode-pace-theme"
+    "url": "https://github.com/evex-dev/theme"
   },
-  "version": "0.3.0",
+  "version": "1.0.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fabian-hiller/vscode-pace-theme/issues"
+    "url": "https://github.com/evex-dev/theme/issues"
   },
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.72.0"
   },
   "galleryBanner": {
     "color": "#111827",
@@ -34,22 +34,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pace Dark",
+        "label": "Evex Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
       },
       {
-        "label": "Pace Light",
+        "label": "Evex Light",
         "uiTheme": "vs",
         "path": "./themes/light.json"
       },
       {
-        "label": "Pace Light+",
+        "label": "Evex Light+",
         "uiTheme": "vs",
         "path": "./themes/light+.json"
       },
       {
-        "label": "Pace Light++",
+        "label": "Evex Light++",
         "uiTheme": "vs",
         "path": "./themes/light++.json"
       }
@@ -59,7 +59,7 @@
     "vsce": "^2.10.0"
   },
   "scripts": {
-    "package": "mkdir -p build && vsce package -o ./build/vscode-pace-theme.vsix",
+    "package": "mkdir -p build && vsce package -o ./build/vscode-evex-theme.vsix",
     "publish": "vsce publish"
   }
 }

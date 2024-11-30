@@ -1,24 +1,24 @@
 {
-  "name": "Pace Dark",
+  "name": "Evex Dark",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#111827",
-    "activityBar.foreground": "#CBD5E1",
-    "activityBar.inactiveForeground": "#64748B",
-    "activityBarBadge.background": "#3B82F6",
+    "activityBar.background": "#030104",
+    "activityBar.foreground": "#BBD4EF",
+    "activityBar.inactiveForeground": "#64749B",
+    "activityBarBadge.background": "#FB22F6",
     "activityBarBadge.foreground": "#E2E8F0",
     "button.background": "#3B82F6",
     "button.foreground": "#111827",
     "breadcrumb.foreground": "#64748B",
-    "breadcrumb.background": "#111827",
+    "breadcrumb.background": "#110817",
     "breadcrumb.focusForeground": "#94A3B8",
     "breadcrumb.activeSelectionForeground": "#94A3B8",
     "breadcrumbPicker.background": "#0A101C",
     "diffEditor.insertedTextBackground": "#0E749033",
-    "dropdown.background": "#1F2937",
+    "dropdown.background": "#2F2937",
     "dropdown.border": "#1E293B",
     "dropdown.foreground": "#E2E8F0",
-    "editor.background": "#111827",
+    "editor.background": "#020102",
     "editor.findMatchBackground": "#075985",
     "editor.findMatchHighlightBackground": "#0C4A6E",
     "editor.lineHighlightBackground": "#1E293B",
@@ -71,7 +71,7 @@
     "scrollbarSlider.activeBackground": "#64748B80",
     "scrollbarSlider.background": "#33415580",
     "scrollbarSlider.hoverBackground": "#47556980",
-    "sideBar.background": "#0A101C",
+    "sideBar.background": "#050104",
     "sideBar.foreground": "#94A3B8",
     "sideBarSectionHeader.background": "#111827",
     "sideBarSectionHeader.foreground": "#94A3B8",
@@ -113,21 +113,22 @@
       "name": "Comment",
       "scope": ["comment", "string.comment"],
       "settings": {
-        "foreground": "#64748B"
+        "foreground": "#9674BD"
       }
     },
     {
       "name": "String",
       "scope": ["string", "string.template"],
       "settings": {
-        "foreground": "#FDE68A"
+        "foreground": "#FDDF8A"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#C084FC"
+        "fontStyle": "italic",
+        "foreground": "#EAA4FF"
       }
     },
     {
@@ -187,7 +188,7 @@
         "keyword.operator.constructor"
       ],
       "settings": {
-        "foreground": "#F87171"
+        "foreground": "#F87181"
       }
     },
     {
