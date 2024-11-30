@@ -52,6 +52,11 @@
         "label": "Evex Light++",
         "uiTheme": "vs",
         "path": "./themes/light++.json"
+      },
+      {
+        "label": "Evex Monochrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monochrome.json"
       }
     ]
   },
