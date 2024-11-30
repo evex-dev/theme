@@ -9,4 +9,4 @@ You can install this theme from the [VSCode Marketplace](https://marketplace.vis
 - [EdamAmex](https://github.com/EdamAme-x)
 - [Evex Developers](https://github.com/evex-dev)
 
-Inspired by [Fabian Hiller](https://github.com/fabian-hiller/vscode-pace-theme)
+Based by [Fabian Hiller](https://github.com/fabian-hiller/vscode-pace-theme)
