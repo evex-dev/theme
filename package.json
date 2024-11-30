@@ -16,7 +16,7 @@
     "url": "https://github.com/evex-dev/theme/issues"
   },
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.75.0"
   },
   "galleryBanner": {
     "color": "#111827",
