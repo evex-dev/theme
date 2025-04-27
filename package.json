@@ -57,6 +57,11 @@
         "label": "Evex Monochrome",
         "uiTheme": "vs-dark",
         "path": "./themes/monochrome.json"
+      },
+      {
+        "label": "Evex Cyberpunk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberpunk.json"
       }
     ]
   },
